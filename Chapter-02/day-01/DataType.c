@@ -2,7 +2,7 @@
 
 int main()
 {
-    //Variable
+    //Variables
     int m;
     int a;
     int mod;
